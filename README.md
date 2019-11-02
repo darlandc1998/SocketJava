@@ -1,2 +1,2 @@
-# socket-java
+# SocketJava
 Trabalho de Redes
