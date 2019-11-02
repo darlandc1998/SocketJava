@@ -27,6 +27,7 @@ public class Chat extends javax.swing.JFrame {
         jListServidor.setModel(modelServidor);
         
         setInformacoes();
+        
     }
 
     private void limparCampos() {
